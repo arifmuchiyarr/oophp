@@ -2,7 +2,7 @@
 
 require_once 'App/init.php';
 
-
+//tests
 // $produk1 = new Komik("Naruto", "Masasi Kishimoto", "Shonen Jump", 30000, 100);  
 // $produk2 = new Game("Uncharted", "Neil Druckmann", "Sony Computer",250000, 50);
 
